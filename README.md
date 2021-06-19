@@ -21,7 +21,6 @@
 ## Contribution:
     Any developer interested in being part of Echeriri Web Development Department. Please contact me for more details.
 ## Link:
-    https://rey79-coder.github.io/README-generator/
 ## Questions:
     How are going to make profit with this video game?
 ## email:
@@ -30,4 +29,4 @@
 ## For addittional questions about README-Generator:
    Please reach out to my email at: verareyna79@gmail.com.
    Here is a video on how to work the application.
-#[Video](https://drive.google.com/file/d/14PyhlD779i5H9OFFLqcnfOadwiR55kFU/view?usp=sharing)
+#[Video]()
