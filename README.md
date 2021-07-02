@@ -28,6 +28,8 @@
 
 ## For addittional questions:
    Please reach out to my email at: verareyna79@gmail.com.
-   Here is a video on how to work the application.
-#[Video](https://youtu.be/Ohxj9xPT74k?t=10)
-#[Images](https://youtu.be/Ohxj9xPT74k?t=10)
+   Here is a video of the raw idea for the videogame.
+#[Video](https://youtu.be/Ohxj9xPT74k)
+
+Here are some drafts for a better undetstanding.
+#[Images](https://github.com/Rey79-coder/videogame-covid-killers/tree/main/assets/img)
