@@ -15,7 +15,7 @@
 ## Description:
     This video game is to promote Echeriri brand.  Potential audience are gamers, developers, and humans in general.Therefore, this free web browser video game. 
 ## Installation:
-    You don't need any installation. Go to echeiriri.com/videogame/ to play it and have fun saving Earth.
+    You don't need any installation. Go to echeiriri.com.mx/videogame/ to play it and have fun saving Earth.
 ## Usage:
     You can play it in any electronic device. For further instructions of how to play on specific platform visit: echeriri.com/videogame/instructions/
 ## Contribution:
@@ -26,7 +26,8 @@
 ## email:
     verareyna79@gmail.com
 
-## For addittional questions about README-Generator:
+## For addittional questions:
    Please reach out to my email at: verareyna79@gmail.com.
    Here is a video on how to work the application.
-#[Video]()
+#[Video](https://youtu.be/Ohxj9xPT74k?t=10)
+#[Images](https://youtu.be/Ohxj9xPT74k?t=10)
